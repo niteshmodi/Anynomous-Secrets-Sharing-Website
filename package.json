@@ -24,6 +24,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
     "dev": "nodemon server"
+<<<<<<< HEAD
+
+=======
+>>>>>>> 51f14314c45afe97d4728815537a4760c9a59e8c
   },
   "author": "",
   "license": "ISC",
